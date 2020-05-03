@@ -1,0 +1,41 @@
+#header {
+	margin-left: 200px;
+	color: blue;
+}
+#form {
+	padding: 20px;
+	border: 2px solid grey;
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 20px;
+}
+#submit {
+	border-radius: 3px;
+	color: white;
+	background-color: lightblue;
+}
+#display {
+	width: 700px;
+	height: 400px;
+	overflow: scroll;
+	display: inline-block;
+	padding: 10px;
+}
+.pic {
+	width: 500px;
+	height: 500px;
+	display: inline-block;
+}
+.rate {
+	border-radius: 2px;
+	color: white;
+	background-color: grey;
+}
+.comm {
+	width: 280px;
+	height: 70px;
+	border: 1px solid black;
+	overflow: scroll;
+}
